@@ -2,7 +2,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeeteshsurana&theme=github_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeeteshsurana&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeeteshsurana&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jeeteshsurana&theme=github_dark)
 
 <!--
 **jeeteshsurana/jeeteshsurana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
