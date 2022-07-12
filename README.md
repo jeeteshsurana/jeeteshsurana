@@ -8,12 +8,23 @@ Hi there, I'm <a href="http://bitly.com/jeeteshportfolio" target="_blank" rel="n
 </h3>
 
 <h2 align="center">
-I'm a Project manager 👨‍💼️, Team Leader, Senior Mobile App Developer 💻, and Designer 🎨!
+I'm a Project manager, Team Leader, Senior Mobile App Developer 💻, and Designer 🎨!
 </h2> 
 
+  
+## 🔭 I'm currently working at
+- It path solutions PVT LTD.
+-
+
+## 📈 GitHub Stats 
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeeteshsurana&theme=github_dark)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeeteshsurana&theme=github_dark)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jeeteshsurana&theme=github_dark)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jeeteshsurana&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <!--
 **jeeteshsurana/jeeteshsurana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
