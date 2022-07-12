@@ -1,4 +1,15 @@
-### Hey 👋, Welcome to my GitHub 👨‍💻❤️
+<p align="center">
+  <a href="http://bitly.com/jeeteshportfolio" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/jeeteshsurana/jeeteshsurana/main/images/mobile_app_developer.png" alt="my banner"></a>
+</p>
+
+<h3 align="center">
+Hi there, I'm <a href="http://bitly.com/jeeteshportfolio" target="_blank" rel="noreferrer">Jeetesh surana</a> 👋, Welcome to my GitHub 👨‍💻
+</h3>
+
+<h2 align="center">
+I'm a Project manager 👨‍⚖️, Mobile App Developer 💻, and Designer 🎨!
+</h2> 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeeteshsurana&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeeteshsurana&theme=github_dark)
