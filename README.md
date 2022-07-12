@@ -1,4 +1,4 @@
-### <h1 align="center">Hey <img src="Hi.gif" width="40px" />, Welcome to my GitHub 👨‍💻❤️</h1>
+### <h1 align="center">Hey 👋, Welcome to my GitHub 👨‍💻❤️</h1>
 
 <!--
 **jeeteshsurana/jeeteshsurana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
