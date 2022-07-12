@@ -1,4 +1,4 @@
-### <h1 align="center">Hey 👋, Welcome to my GitHub 👨‍💻❤️</h1>
+### Hey 👋, Welcome to my GitHub 👨‍💻❤️👨‍🎓👁‍🗨
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeeteshsurana&theme=github_dark)
 
