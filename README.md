@@ -1,6 +1,6 @@
 ### <h1 align="center">Hey 👋, Welcome to my GitHub 👨‍💻❤️</h1>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeeteshsurana&theme=default)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeeteshsurana&theme=default)
 
