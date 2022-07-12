@@ -8,7 +8,7 @@ Hi there, I'm <a href="http://bitly.com/jeeteshportfolio" target="_blank" rel="n
 </h3>
 
 <h2 align="center">
-I'm a Project manager 👨‍⚖️, Mobile App Developer 💻, and Designer 🎨!
+I'm a Project manager 👨‍💼️, Team Leader, Senior Mobile App Developer 💻, and Designer 🎨!
 </h2> 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeeteshsurana&theme=github_dark)
