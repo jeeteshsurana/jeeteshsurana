@@ -33,6 +33,15 @@ I'm a Project manager, Team Leader, Senior Mobile App Developer 💻, and Design
 ## Support
 
 For support, email jeeteshsurana@gmail.com or join our Slack channel.
+
+## 🛠 Skills
+
+# 🛠 Management Skills
+Project management, Team Leader, Senior mobile app developer
+
+# 🛠 Technical Skills
+Native Android & iOS, Flutter
+
 <!--
 **jeeteshsurana/jeeteshsurana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
