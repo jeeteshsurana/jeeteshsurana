@@ -36,10 +36,10 @@ For support, email jeeteshsurana@gmail.com or join our Slack channel.
 
 ## 🛠 Skills
 
-# 🛠 Management Skills
+### 🛠 Management Skills
 Project management, Team Leader, Senior mobile app developer
 
-# 🛠 Technical Skills
+### 🛠 Technical Skills
 Native Android & iOS, Flutter
 
 <!--
