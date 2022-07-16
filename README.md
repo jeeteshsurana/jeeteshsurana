@@ -31,10 +31,10 @@ I'm a Project manager, Team Leader, Senior Mobile App Developer 💻, and Design
 
 ## 🛠 Skills
 
-### 🛠 Management Skills
+##### 🛠 Management Skills
 Project management, Team Leader, Senior mobile app developer
 
-### 🛠 Technical Skills
+##### 🛠 Technical Skills
 Native Android & iOS, Flutter
 
 
