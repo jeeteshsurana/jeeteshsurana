@@ -1,3 +1,5 @@
+<audio ref='themeSong' src="https://raw.githubusercontent.com/jeeteshsurana/jeeteshsurana/main/audio/welcome_to_my_profile.mp3" autoPlay loop></audio>
+
 <p align="center">
   <a href="http://bitly.com/jeeteshportfolio" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/jeeteshsurana/jeeteshsurana/main/images/mobile_app_developer.png" alt="my banner"></a>
