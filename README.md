@@ -28,6 +28,11 @@ I'm a Project manager, Team Leader, Senior Mobile App Developer 💻, and Design
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jeeteshsurana&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+
+
+## Support
+
+For support, email jeeteshsurana@gmail.com or join our Slack channel.
 <!--
 **jeeteshsurana/jeeteshsurana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
