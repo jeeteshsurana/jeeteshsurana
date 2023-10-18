@@ -50,12 +50,6 @@ I'm a Project manager, Team Leader, Senior Mobile App Developer 💻, and Design
   <a href="https://bit.ly/jeeteshLinkedIn" target="_blank">
   <img src="https://raw.githubusercontent.com/jeeteshsurana/mockJSON/master/social_media_icons/svg/linkedin.svg" alt="youtube" height="128" width="128">
   </a>
-  <a href="https://bit.ly/jeeteshFb" target="_blank">
-  <img src="https://raw.githubusercontent.com/jeeteshsurana/mockJSON/master/social_media_icons/svg/facebook.svg" alt="youtube" height="128" width="128">
-  </a>
-  <a href="https://bit.ly/jeeteshInstagram" target="_blank">
-  <img src="https://raw.githubusercontent.com/jeeteshsurana/mockJSON/master/social_media_icons/svg/instagram.svg" alt="youtube" height="128" width="128">
-  </a>
   <a href="https://wa.me/message/22X7VZIGRIXGM1" target="_blank">
   <img src="https://raw.githubusercontent.com/jeeteshsurana/mockJSON/master/social_media_icons/svg/what_app.svg" alt="youtube" height="128" width="128">
   </a>
